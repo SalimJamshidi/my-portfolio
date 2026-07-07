@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"name": "my-project-",
+			"path": "../my-project-"
+		},
+		{
+			"name": "love-running",
+			"path": "../love-running"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
+}
